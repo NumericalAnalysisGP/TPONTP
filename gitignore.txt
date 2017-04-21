@@ -1,0 +1,5 @@
+/bin/
+*.orig
+*.xml
+*.iml
+/out/
